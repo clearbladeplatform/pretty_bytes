@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,pretty_bytes",
+    "logging_enabled": "false",
+    "name": "pretty_bytesSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "pretty_bytesSmokeTest.js"
+}
